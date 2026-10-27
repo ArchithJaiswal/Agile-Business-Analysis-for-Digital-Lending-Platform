@@ -1,3 +1,4 @@
+
 **Lending Default Risk Analytics Dashboard**
 
 A 4-page Power BI report that shows where default risk sits in a lending book and which signals actually predict it. Built on the Home Credit Default Risk dataset, with SQL for data preparation and cleaning.
@@ -38,6 +39,8 @@ SQL (MySQL), Power BI (DAX, what-if parameters, custom theme), Confluence(Docume
 
 <img width="1264" height="716" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/8bfdc3a3-854f-40c5-bb26-36dd3d5511a5" />
 <img width="1270" height="716" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/bca23860-cff0-4cd0-a915-6da76126349c" />
+
+<img width="1269" height="714" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/d3a400a5-04f9-43a8-a23a-d81a2f82ffd8" />
 
 
 Author
